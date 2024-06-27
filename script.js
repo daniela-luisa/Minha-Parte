@@ -105,6 +105,7 @@ function validarCEP() {
   const numeroLimite = 8;
   const preco = document.getElementById('precoProduto');
   const frete = document.getElementById('frete');
+  const aviso = document.getElementById('aviso');
   if (cep.length !== numeroLimite) {
 
     aviso.textContent = 'O CEP deve ter 8 dígitos!';
