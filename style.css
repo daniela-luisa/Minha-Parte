@@ -92,7 +92,7 @@ body, html{
 /*---------------------------------------------------*/
 
 /* compra */
-#geralProduto{
+.geralProduto{
     display: flex;
     justify-content: center;
     height: 90vh;
@@ -101,7 +101,7 @@ body, html{
   
 }
 
-#imgProduto{
+.imgProduto{
     height: 100%;
     width: 50%;
     display: flex;
@@ -118,7 +118,7 @@ body, html{
     height: 75%;
     /* background-color: #b5c8ff; */
 }
-#fotoSecundarias{
+.fotoSecundarias{
     width: 100%;
     height: 25%;
     /* background-color: #e0e8ff; */
@@ -503,5 +503,3 @@ text-decoration: none;
     margin-left: 5%;
     color: #3f538a;
   }
-
-
