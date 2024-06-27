@@ -126,8 +126,4 @@ preco.textContent = 'R$ 2.099.54';
 
 
 }
-
-
-    // window.addEventListener("resize", checkScreenSize);
-
      
